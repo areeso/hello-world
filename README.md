@@ -1,2 +1,2 @@
 # hello-world
-Practicing repo
+HI! I'm practicing Git so that I don't look so silly. Thank you!
